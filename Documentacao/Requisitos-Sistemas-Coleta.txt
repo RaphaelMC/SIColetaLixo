@@ -1,0 +1,11 @@
+- O Software para coletagem de lixo, deverá mostrar extamanete a rota extata que o motorista deverá percorrer, com um sistema de gps do próprio software.
+
+- Também deverá ter algo nos caminhões como um sensor em que identifica quando o caminhão está cheio para chamar automaticamente um outro caminhão para auxiliar.
+
+- O software deverá armazenar quantos Kg foram coletados,e armazenar quantos irão para a reciclagem.
+
+ideias tiradas do seguinte software - http://www.odin.com.br/odin-residuos/
+
+RM82795 Raphael Moser Carvalhais
+
+
